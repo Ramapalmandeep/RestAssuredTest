@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9345" started-at="2018-04-29T09:46:03Z" finished-at="2018-04-29T09:46:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9345" started-at="2018-04-29T09:46:03Z" finished-at="2018-04-29T09:46:12Z">
+      <class name="restassured.Post_Delete_PutTest">
+        <test-method status="PASS" signature="deleteTest()[pri:0, instance:restassured.Post_Delete_PutTest@edf4efb]" name="deleteTest" duration-ms="53" started-at="2018-04-29T15:16:10Z" finished-at="2018-04-29T15:16:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTest -->
+        <test-method status="PASS" signature="postTest()[pri:0, instance:restassured.Post_Delete_PutTest@edf4efb]" name="postTest" duration-ms="137" started-at="2018-04-29T15:16:10Z" finished-at="2018-04-29T15:16:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest -->
+        <test-method status="PASS" signature="putTest()[pri:0, instance:restassured.Post_Delete_PutTest@edf4efb]" name="putTest" duration-ms="26" started-at="2018-04-29T15:16:10Z" finished-at="2018-04-29T15:16:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putTest -->
+        <test-method status="PASS" signature="getTest()[pri:0, instance:restassured.Post_Delete_PutTest@edf4efb]" name="getTest" duration-ms="105" started-at="2018-04-29T15:16:10Z" finished-at="2018-04-29T15:16:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTest -->
+      </class> <!-- restassured.Post_Delete_PutTest -->
+      <class name="restassured.ApiTest">
+        <test-method status="PASS" signature="apiRespo()[pri:0, instance:restassured.ApiTest@60f82f98]" name="apiRespo" duration-ms="4522" started-at="2018-04-29T15:16:03Z" finished-at="2018-04-29T15:16:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiRespo -->
+        <test-method status="PASS" signature="apiResponse()[pri:0, instance:restassured.ApiTest@60f82f98]" name="apiResponse" duration-ms="2454" started-at="2018-04-29T15:16:07Z" finished-at="2018-04-29T15:16:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiResponse -->
+      </class> <!-- restassured.ApiTest -->
+      <class name="restassured.ResponceTest">
+        <test-method status="PASS" signature="responceBody()[pri:0, instance:restassured.ResponceTest@57829d67]" name="responceBody" duration-ms="1538" started-at="2018-04-29T15:16:10Z" finished-at="2018-04-29T15:16:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responceBody -->
+        <test-method status="PASS" signature="responseCode()[pri:0, instance:restassured.ResponceTest@57829d67]" name="responseCode" duration-ms="491" started-at="2018-04-29T15:16:12Z" finished-at="2018-04-29T15:16:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responseCode -->
+      </class> <!-- restassured.ResponceTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
